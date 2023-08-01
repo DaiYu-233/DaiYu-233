@@ -17,11 +17,19 @@
 
 #
 
-<p align="center">
- <img src="https://github-stats.ubrong.com/api/top-langs/?username=DaiYu-233&layout=compact" />
-   </p>
-     <p align="center">
-        <img src="https://github-stats.ubrong.com/api?username=DaiYu-233&show_icons=true" />   
-</p>
+<div align="center">
+    <a href="https://daiyu.fun/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);Welcome to my profile!&center=true&size=27" alt="Typing SVG" />
+    </a>
+</div>
 
-<!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DaiYu-233" width="auto"></img> -->
+![](https://github-readme-activity-graph.vercel.app/graph?username=binwenwu&theme=react-dark)
+
+![Star History Chart](https://api.star-history.com/svg?repos=DaiYu-233/YMCL&type=Date)
+
+[](https://star-history.com/#DaiYu-233/YMCL&Date)
+
+| ![](https://github-stats.ubrong.com/api?username=DaiYu-233&show_icons=true) | ![](https://github-stats.ubrong.com/api/top-langs/?username=DaiYu-233&layout=compact ) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
