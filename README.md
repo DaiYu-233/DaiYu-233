@@ -25,7 +25,7 @@
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=DaiYu-233&theme=react-dark)
 
-![Star History Chart](https://api.star-history.com/svg?repos=DaiYu-233/YMCL&type=Date)
+<!-- ![Star History Chart](https://api.star-history.com/svg?repos=DaiYu-233/YMCL&type=Date) -->
 
 [](https://star-history.com/#DaiYu-233/YMCL&Date)
 
