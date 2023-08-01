@@ -16,8 +16,10 @@
 去给本鱼发电 >>> [爱发电 (afdian.net)](https://afdian.net/a/DaiYu-233)
 
 <p align="center">
-    <img src="https://github-stats.ubrong.com/api/pin/?username=DaiYu-233&repo=YMCL&" />       <img src="https://github-stats.ubrong.com/api/top-langs/?username=DaiYu-233&layout=compact" />   
+    <img src="https://github-stats.ubrong.com/api/pin/?username=DaiYu-233&repo=YMCL&" />       </p>
+    <p align="center">
+    <img src="https://github-stats.ubrong.com/api/top-langs/?username=DaiYu-233&layout=compact" />  </p> <p align="center">
         <img src="https://github-stats.ubrong.com/api?username=DaiYu-233&show_icons=true" />   
 </p>
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DaiYu-233" width="auto"></img>
 
+<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DaiYu-233" width="auto"></img>
