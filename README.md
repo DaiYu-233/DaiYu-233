@@ -18,8 +18,8 @@
 #
 
 <p align="center">
-
- <img src="https://github-stats.ubrong.com/api/top-langs/?username=DaiYu-233&layout=compact" />  </p>
+ <img src="https://github-stats.ubrong.com/api/top-langs/?username=DaiYu-233&layout=compact" />
+   </p>
      <p align="center">
         <img src="https://github-stats.ubrong.com/api?username=DaiYu-233&show_icons=true" />   
 </p>
