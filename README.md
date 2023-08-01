@@ -24,4 +24,4 @@
         <img src="https://github-stats.ubrong.com/api?username=DaiYu-233&show_icons=true" />   
 </p>
 
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DaiYu-233" width="auto"></img>
+<!-- <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DaiYu-233" width="auto"></img> -->
