@@ -23,7 +23,7 @@
     </a>
 </div>
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=binwenwu&theme=react-dark)
+![](https://github-readme-activity-graph.vercel.app/graph?username=DaiYu-233&theme=react-dark)
 
 ![Star History Chart](https://api.star-history.com/svg?repos=DaiYu-233/YMCL&type=Date)
 
