@@ -29,7 +29,7 @@
 
 [](https://star-history.com/#DaiYu-233/YMCL&Date)
 
-| ![](https://github-stats.ubrong.com/api?username=DaiYu-233&show_icons=true) | ![](https://github-stats.ubrong.com/api/top-langs/?username=DaiYu-233&layout=compact ) |
+| ![](https://github-stats.ubrong.com/api?username=DaiYu-233&show_icons=true) | ![](https://github-stats.ubrong.com/api/top-langs/?username=DaiYu-233&layout=compact&exclude_repo=Blog ) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 <img src="https://github.com/binwenwu/binwenwu/raw/main/src/header_.png"/>
